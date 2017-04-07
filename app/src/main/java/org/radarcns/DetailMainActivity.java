@@ -39,7 +39,8 @@ public class DetailMainActivity extends MainActivity {
 
     @Override
     protected MainActivityView createView() {
-        return new DetailMainActivityView(this, getRadarConfiguration());
+//        return new DetailMainActivityView(this, getRadarConfiguration());
+        return new CompactMainActivityView(this, getRadarConfiguration());
     }
 
     @Override

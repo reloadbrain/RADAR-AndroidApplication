@@ -54,4 +54,11 @@
     <string name="filter_title">Filter device name</string>
     <string name="filter_help_label">Enter part of a device name or MAC address. Separate multiple options with comma\'s \',\'.</string>
     <string name="firebase_fetching">Fetching remote config</string>
+
+    <string name="patient_separator">Person Details</string>
+    <string name="patient_id_input_dialog">User ID</string>
+    <string name="devices_separator">Sensors</string>
+    <string name="sync_separator">Synchronisation</string>
+    <string name="sync_default">Connected to the server\nLast Synchronized 1 minute ago</string>
+    <string name="sync_button_description">Synchronize now</string>
 </resources>

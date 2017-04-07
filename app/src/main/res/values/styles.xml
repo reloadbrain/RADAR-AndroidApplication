@@ -102,4 +102,21 @@
         <item name="android:paddingTop">21dip</item>
     </style>
 
+    <!-- Compact View styles -->
+    <style name="MyListSeparator">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal|bold</item>
+        <item name="android:background">@drawable/rounded_corner</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+
+    <style name="DividerLine">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">2dp</item>
+        <item name="android:background">#ff0000</item>
+    </style>
+
 </resources>
